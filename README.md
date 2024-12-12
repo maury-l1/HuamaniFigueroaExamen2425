@@ -101,3 +101,6 @@ Configuramos el repositorio
 ![image](https://github.com/user-attachments/assets/4f009e78-62f0-483c-b5ae-61d188e23111)
 
 Enlazamos el repositorio local con el repositorio remoto 
+
+
+Tuve un problema al momento de hacer el push, un problema con las branch y no me dejo subir los archivos html y css
